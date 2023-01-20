@@ -4,6 +4,10 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### ¿Cúal es la fase de la luna actual?
+R: Cuarto menguante.
+![image](https://user-images.githubusercontent.com/54110665/213599912-ce36f094-aa5d-42e6-a222-cca3d864f544.png)
+
 ### Generen un código qr (ascii) para la frase: 'May the command line live forever'
 ![image](https://user-images.githubusercontent.com/54110665/213598270-8b5aedab-3edf-4b56-b0b6-a4a218d832d0.png)
 
