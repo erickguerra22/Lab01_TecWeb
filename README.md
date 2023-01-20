@@ -4,6 +4,9 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### Generen un código qr (ascii) para la frase: 'May the command line live forever'
+![image](https://user-images.githubusercontent.com/54110665/213598270-8b5aedab-3edf-4b56-b0b6-a4a218d832d0.png)
+
 ### Copien el titulo, la fecha de publicación y el primer parrafo de dos de los siguientes rfc históricos:
 318:
 - Título: Telnet Protocol
