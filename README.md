@@ -4,6 +4,10 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### ¿Cuál es el path de tcp entre telehack.com y el host "ecord"?
+R: telehack!tandem!uunet!atina!ecord
+![image](https://user-images.githubusercontent.com/54110665/213599305-83ed0457-e1e0-46cc-86d3-6af4e1a2a049.png)
+
 ### ¿Cuanto tiempo lleva encendido el server de telehack.com?
 R: 24 días
 ![image](https://user-images.githubusercontent.com/54110665/213596704-e1c01246-ebc1-4aff-89b0-e82e8ae168ce.png)
