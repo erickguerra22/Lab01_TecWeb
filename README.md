@@ -4,6 +4,21 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### Copien el titulo, la fecha de publicación y el primer parrafo de dos de los siguientes rfc históricos:
+318:
+- Título: Telnet Protocol
+- Fecha de publicación: 3 de abril de 1972
+- Primer párrafo:
+At the October 1971 Network Working Group Meeting, I promised to promptly produce a document which clearly and succinctly specified and explained the Official Telnet Protocol.  This document fails to meet any part of that promise.  This document was not produced promptly.  This document is neither clear nor succinct.  There is NO Official Telnet Protocol.
+![image](https://user-images.githubusercontent.com/54110665/213597608-60271a08-ef07-446f-8d02-8f95718164f1.png)
+
+2324:
+- Título: Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)
+- Fecha de publicación: 1 de abril de 1998
+- Primer párrafo:
+Status of this Memo: This memo provides information for the Internet community.  It does not specify an Internet standard of any kind.  Distribution of this memo is unlimited.
+![image](https://user-images.githubusercontent.com/54110665/213598062-8c5f20f7-594c-41bf-8c93-60fe171fe8b4.png)
+
 ### ¿Cuál es el path de tcp entre telehack.com y el host "ecord"?
 R: telehack!tandem!uunet!atina!ecord
 ![image](https://user-images.githubusercontent.com/54110665/213599305-83ed0457-e1e0-46cc-86d3-6af4e1a2a049.png)
