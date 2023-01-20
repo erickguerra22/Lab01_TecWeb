@@ -4,6 +4,10 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### Busquen en usenet y escojan algún post interesante
+Post elegido: Living Alone (Actually, net hostility)
+![image](https://user-images.githubusercontent.com/54110665/213596025-fa3b57ca-ea9c-47b4-b750-4e59b2b072b3.png)
+
 ### En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
 Elección: 1: E, 2: A, 3: B, 4: D, 5: C.
 Resultado:
