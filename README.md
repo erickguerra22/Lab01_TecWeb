@@ -4,6 +4,10 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### ¿Donde está ubicado en host bkj386?
+R: Ontario, Canadá.
+![image](https://user-images.githubusercontent.com/54110665/213600425-62a42710-f1c6-4907-b04a-4d709e587b99.png)
+
 ### Traduzcan la siguiente frase a clave morse: 'ye shall be as gods'
 R: -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
 ![image](https://user-images.githubusercontent.com/54110665/213600032-aacdbc54-3371-4e85-afc6-2d393517aab8.png)
