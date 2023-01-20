@@ -4,6 +4,10 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### Traduzcan la siguiente frase a clave morse: 'ye shall be as gods'
+R: -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+![image](https://user-images.githubusercontent.com/54110665/213600032-aacdbc54-3371-4e85-afc6-2d393517aab8.png)
+
 ### ¿Cúal es la fase de la luna actual?
 R: Cuarto menguante.
 ![image](https://user-images.githubusercontent.com/54110665/213599912-ce36f094-aa5d-42e6-a222-cca3d864f544.png)
