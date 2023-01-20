@@ -4,6 +4,10 @@ Conexión a telehack.com a través de telnet, en linux.
 ### Conexión:
 ![image](https://user-images.githubusercontent.com/54110665/213586289-65fd6506-9e3d-4474-8ca8-6526760532bf.png)
 
+### ¿Cuanto tiempo lleva encendido el server de telehack.com?
+R: 24 días
+![image](https://user-images.githubusercontent.com/54110665/213596704-e1c01246-ebc1-4aff-89b0-e82e8ae168ce.png)
+
 ### Busquen en usenet y escojan algún post interesante
 Post elegido: Living Alone (Actually, net hostility)
 ![image](https://user-images.githubusercontent.com/54110665/213596025-fa3b57ca-ea9c-47b4-b750-4e59b2b072b3.png)
